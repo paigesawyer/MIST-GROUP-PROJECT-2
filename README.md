@@ -17,6 +17,10 @@ Hailey Trivedi
 
 
 ## Description of Data Set
+<img width="631" alt="Screenshot 2023-12-04 at 1 46 21 PM" src="https://github.com/haileytrivedi/MIST-GROUP-PROJECT-2/assets/149614680/2465a918-7147-4b77-9cd9-b3428c738322">
+
+
+<img width="626" alt="Screenshot 2023-12-04 at 1 46 47 PM" src="https://github.com/haileytrivedi/MIST-GROUP-PROJECT-2/assets/149614680/878c07e3-27b3-48c4-a5be-dbece53558df">
 
 
 ## 2 Questions
