@@ -77,3 +77,5 @@ This code allowed us to sum the amount of those occurrences to segregate the dat
 
 
 ## Tableau packaged workbook
+
+The packaged workbook containing the visualizations shown above is attached to this repository.
