@@ -50,7 +50,7 @@ As previously mentioned, car accidents are the leading cause of death in US citi
 
 
 
-## Manipulations Applied: 
+## Manipulations Applied
 
 Before uploading the dataset into tableau, we limited the rows to 500 rows to cut down the amount of storage and computer power needed to run analysis on the data. For the map visualization, a manipulation and calculation was performed on the data. First, we only included the following vehicle types as they were the most common types and provided the significant data points: box truck, bus, e-bike, motorcycle, pick-up truck, sedan, station wagon/sport utility vehicle, and taxi. Additionally, we calculated the total number of people injured by adding together: 
 [Number Of Persons Injured]+[Number Of Motorist Injured]+[Number Of Pedestrians Injured]+[Number Of Persons Injured]. 
