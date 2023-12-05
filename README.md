@@ -18,6 +18,7 @@ Hailey Trivedi
 
 ## Description of Data Set
 
+The dataset used in this project contains information on motor vehicle collisions in New York City from 2013 to 2023, and it was last updated on December 2nd, 2023. This dataset was obtained through data.gov and specifically the catalog of various datasets (https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes). It is worth noting that this dataset comes from police reports on the collisions, which are only required to be filled out if someone is injured or killed in the collision or if there is at least $1000 worth of damages. Our dataset has a variety of different data types present within it, including date and datetime in order to document when the collision occurred. There is also geographic data for latitude, latitude and zip code. Finally, we have multiple string fields for up to five contributing factors or vehicles involved in the collision and numbers to keep track of how many individuals are injured or killed both in general and broken down among cyclists, motorists and pedestrians specifically. This variety of data types and their amount allow us to take a deep dive into determining many different factors behind these collisions in the hopes of reducing the frequency and severity of them over time.
 
 
 
