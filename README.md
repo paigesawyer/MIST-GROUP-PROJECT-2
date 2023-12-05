@@ -1,5 +1,9 @@
 # MIST4610-GROUP-PROJECT-2
 
+## Group name
+
+39217 Group 5
+
 ## Team Name
 
 Megan Gentles
