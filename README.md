@@ -76,3 +76,5 @@ Our temporal analysis centered on discerning patterns in motor vehicle incidents
 
 Our applied manipulations, including the judicious limitation of the dataset to 500 rows for optimal computational efficiency and the meticulous categorization of vehicle types and contributing factors, facilitated the creation of targeted visualizations. Utilizing Tableau, our team adeptly visualized the intricate relationships between contributing factors, vehicle types, and the number of injuries, offering a nuanced and comprehensive understanding of the dataset. These discerning analyses and visual representations serve as a robust foundation for evidence-driven policymaking and strategic interventions to alleviate the impact of motor vehicle collisions in the dynamic context of New York City.
 
+
+## Tableau packaged workbook
