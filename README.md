@@ -48,4 +48,19 @@ As previously mentioned, car accidents are the leading cause of death in US citi
 
 <img width="632" alt="Screenshot 2023-12-05 at 9 33 27 AM" src="https://github.com/haileytrivedi/MIST-GROUP-PROJECT-2/assets/149614680/8720f687-a5c9-4f39-add4-2398e2001117">
 
+
+
+## Manipulations Applied: 
+
+Before uploading the dataset into tableau, we limited the rows to 500 rows to cut down the amount of storage and computer power needed to run analysis on the data. For the map visualization, a manipulation and calculation was performed on the data. First, we only included the following vehicle types as they were the most common types and provided the significant data points: box truck, bus, e-bike, motorcycle, pick-up truck, sedan, station wagon/sport utility vehicle, and taxi. Additionally, we calculated the total number of people injured by adding together: 
+[Number Of Persons Injured]+[Number Of Motorist Injured]+[Number Of Pedestrians Injured]+[Number Of Persons Injured]. 
+	
+ 
+ For the visualization with three charts, numerous calculations were made to create this. The same injured calculation was done as well as the sum of those killed. Numerous calculations were used to create the data regarding the contributing factor for the motor vehicle accident. In the data source tab, we counted the number of instances if the data included “Alcohol,” “Unsafe,” “Distraction,” “Too Closely,” or “Aggressive Driving.” For alcohol the code was the following: 
+COUNT(IF CONTAINS([Contributing Factor Vehicle 1],"Alcohol") THEN 1 END)+COUNT(IF CONTAINS([Contributing Factor Vehicle 2],"Alcohol") THEN 1 END)+COUNT(IF CONTAINS([Contributing Factor Vehicle 3],"Alcohol") THEN 1 END)+COUNT(IF CONTAINS([Contributing Factor Vehicle 4],"Alcohol") THEN 1 END)+COUNT(IF CONTAINS([Contributing Factor Vehicle 5],"Alcohol") THEN 1 END).
+
+
+This code allowed us to sum the amount of those occurrences to segregate the data based on the contributing factor. This allowed us to see whether there was one dominating contributing factor. It also allowed us to visualize contributing factors on the same x-axis as the number of people injured/killed to see if there was a correlation. These manipulations allowed us to break out these factors based on month to also see if seasonality had an impact.
+
+
 ## Anyalysis and Results
