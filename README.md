@@ -6,17 +6,17 @@
 
 ## Team Name
 
-Megan Gentles
+Megan Gentles [@megangentles](https://github.com/megangentles)
 
-Lindsay Kilpatrick
+Lindsay Kilpatrick [@lindsaykilpatrick](https://github.com/lindsaykilpatrick)
 
-Aaron Phelps
+Aaron Phelps [@aaronphelps](https://github.com/aphelps94)
 
-Paige Sawyer
+Hailey Trivedi [@haileytrivedi](https://github.com/haileytrivedi)
 
-Sahana Solipuram
+Sahana Solipuram [@sahanasolipuram](https://github.com/sahanasolipuram)
 
-Hailey Trivedi
+Paige Sawyer [@paigesawyer](https://github.com/paigesawyer)
 
 
 
