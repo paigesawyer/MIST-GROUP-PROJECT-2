@@ -65,3 +65,10 @@ This code allowed us to sum the amount of those occurrences to segregate the dat
 
 
 ## Anyalysis and Results
+
+In conducting a comprehensive analysis of the New York City motor vehicle collision dataset spanning the years 2013 to 2023, our exploration yielded profound insights into critical factors shaping accident patterns and severity. The investigation into the geographical distribution of incidents unveiled potential hotspots within the city, underscoring the imperative for targeted interventions in specific areas to curtail the overall frequency of motor vehicle accidents. Furthermore, our scrutiny of the relationship between the types of vehicles involved in accidents and the resultant number of injuries brought to light significant considerations for the formulation of preventative legislation, identifying common vehicle types predisposed to accidents.
+
+Our temporal analysis centered on discerning patterns in motor vehicle incidents throughout the year. Through an evaluation of monthly trends, our study sought to determine if particular months exhibited a heightened incidence of accidents and whether seasonal factors contributed to this variability. Additionally, the exploration of the correlation between the total number of accidents and resulting injuries furnished crucial insights for strategic emergency response planning and judicious resource allocation.
+
+Our applied manipulations, including the judicious limitation of the dataset to 500 rows for optimal computational efficiency and the meticulous categorization of vehicle types and contributing factors, facilitated the creation of targeted visualizations. Utilizing Tableau, our team adeptly visualized the intricate relationships between contributing factors, vehicle types, and the number of injuries, offering a nuanced and comprehensive understanding of the dataset. These discerning analyses and visual representations serve as a robust foundation for evidence-driven policymaking and strategic interventions to alleviate the impact of motor vehicle collisions in the dynamic context of New York City.
+
