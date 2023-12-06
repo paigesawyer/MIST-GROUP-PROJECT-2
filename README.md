@@ -105,3 +105,5 @@ This visualization can be used in combination with the above to see whether the 
 
 <img width="883" alt="Screenshot 2023-12-05 at 11 16 25 PM" src="https://github.com/paigesawyer/MIST-GROUP-PROJECT-2/assets/148093138/d220dfda-7c3b-4472-b164-d919ddbd7867">
 Given the above realization, I have included a zoomed in image of the area with the highest number of fatalities. While there are a variety of triggers, rain seems to be the main cause. This shows that this area may need better drainage systems and flooding control. It would be worth spending more resources on preventing landslides here to reduce their high fatality number. 
+
+The workbook for this dataset is attached above as HonorsOption. A dashboard was also created to see both visualizations side by side. 
